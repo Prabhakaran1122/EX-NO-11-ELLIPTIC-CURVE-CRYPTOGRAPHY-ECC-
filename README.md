@@ -135,7 +135,7 @@ int main() {
 
 
 ## Output:
-![Screenshot (203)](https://github.com/user-attachments/assets/b36c34a7-3bb4-4cab-94fd-a2f8cb82a0fb)
+<img width="1599" height="724" alt="image" src="https://github.com/user-attachments/assets/7047c4ac-6121-42e9-807d-9fde1c24e6fc" />
 
 ## Result:
 The program is executed successfully
